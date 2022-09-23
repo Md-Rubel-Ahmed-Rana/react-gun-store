@@ -1,7 +1,7 @@
 {
   "name": "gun-store",
   "version": "0.1.0",
-  "homepage": "https://github.com/Md-Rubel-Ahmed-Rana/react-gun-store",
+  "homepage": "https://md-rubel-ahmed-rana.github.io/react-gun-store/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
