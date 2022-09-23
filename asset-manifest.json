@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Md-Rubel-Ahmed-Rana/react-gun-store/static/css/main.6103ecbc.css",
+    "main.js": "/Md-Rubel-Ahmed-Rana/react-gun-store/static/js/main.d552db5e.js",
+    "static/js/787.0be3f90c.chunk.js": "/Md-Rubel-Ahmed-Rana/react-gun-store/static/js/787.0be3f90c.chunk.js",
+    "index.html": "/Md-Rubel-Ahmed-Rana/react-gun-store/index.html",
+    "main.6103ecbc.css.map": "/Md-Rubel-Ahmed-Rana/react-gun-store/static/css/main.6103ecbc.css.map",
+    "main.d552db5e.js.map": "/Md-Rubel-Ahmed-Rana/react-gun-store/static/js/main.d552db5e.js.map",
+    "787.0be3f90c.chunk.js.map": "/Md-Rubel-Ahmed-Rana/react-gun-store/static/js/787.0be3f90c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6103ecbc.css",
+    "static/js/main.d552db5e.js"
+  ]
+}
